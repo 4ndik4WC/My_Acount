@@ -1,14 +1,14 @@
 body {
   background-color: #87CEEB; /* Warna Biru Langit */
   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
-  color: #01e606; /* Warna teks utama (Hijau Muda) */
+  color: #01e606; /* Warna teks utama (Hijau) */
 }
 .kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
   background-color: white;
-  border-radius: 15px; /* Membuat sudut melengkung */
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
   text-align: center: /* Menengahkan semua teks di dalam kartu */
 }
