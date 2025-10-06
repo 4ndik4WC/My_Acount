@@ -1,7 +1,7 @@
 body {
   background-color: #87CEEB; /* Warna Biru Langit */
   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
-  color: #01e606; /* Warna teks utama (Hijau) */
+  color: #191970; /* Warna teks utama (Biru Gelap) */
 }
 .kartu-profil {
   width: 300px;
@@ -17,4 +17,4 @@ body {
 .kartu-profil img {
   width: 150px;
   border-radius: 50% /* Trik membuat gambar persegi menjadi lingkaran sempurna */
-} 
+}
